@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnitFullScreen</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="pref_page_category_title"></string>
+    <string name="pref_exchange_host_key">pref_host_key</string>
+    <string name="pref_exchange_host_summary">Введите IP адрес или url страницы</string>
+
+</resources>
