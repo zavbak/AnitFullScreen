@@ -79,7 +79,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
 
     @Override
     public void onClick(View v) {
-        Toast.makeText(this, "hello", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "hello1", Toast.LENGTH_SHORT).show();
     }
 
     class MyTask extends AsyncTask<Void, Void, Void> {
